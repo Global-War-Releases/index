@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-08-19T17:18:41.076885600+00:00",
+  "generated_at": "2026-08-18T00:00:00Z",
   "launcher": {
     "version": "0.3.0",
     "assets": [
@@ -19,5 +19,126 @@
     ],
     "bg_etag": "\"5d608d862f6004f70701f1639477db9de31a8c2867bd143f74d23b5d430aad6a\""
   },
-  "releases": []
+  "releases": [
+    {
+      "name": "0.3 Alpha",
+      "path": "0.3-Alpha",
+      "tag": "0.3-Alpha",
+      "exe_path": null,
+      "manifest": "https://raw.githubusercontent.com/Global-War-Releases/0.3-Alpha_main_1/master/manifest.json",
+      "assets": [
+        { "name": "data1.zip", "size": 2101509712, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data1.zip" },
+        { "name": "data2.zip", "size": 2097625987, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data2.zip" },
+        { "name": "data3.zip", "size": 2099364964, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data3.zip" },
+        { "name": "data4.zip", "size": 2100664086, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data4.zip" },
+        { "name": "data5.zip", "size": 2098774097, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data5.zip" },
+        { "name": "data6.zip", "size": 2098229591, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data6.zip" },
+        { "name": "data7.zip", "size": 1926228682, "url": "https://github.com/Global-War-Releases/0.3-Alpha_main_1/releases/download/0.3-Alpha/data7.zip" }
+      ],
+      "patches": []
+    },
+    {
+      "name": "0.4 Alpha",
+      "path": "0.4-Alpha",
+      "tag": "0.4-Alpha",
+      "exe_path": null,
+      "manifest": "https://raw.githubusercontent.com/Global-War-Releases/0.4-Alpha_main_1/master/manifest.json",
+      "assets": [
+        { "name": "data1.zip", "size": 2100035278, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data1.zip" },
+        { "name": "data2.zip", "size": 2097733952, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data2.zip" },
+        { "name": "data3.zip", "size": 2098746274, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data3.zip" },
+        { "name": "data4.zip", "size": 2106534878, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data4.zip" },
+        { "name": "data5.zip", "size": 2098063627, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data5.zip" },
+        { "name": "data6.zip", "size": 2098853297, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data6.zip" },
+        { "name": "data7.zip", "size": 2098055057, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data7.zip" },
+        { "name": "data8.zip", "size": 1783051721, "url": "https://github.com/Global-War-Releases/0.4-Alpha_main_1/releases/download/0.4-Alpha/data8.zip" }
+      ],
+      "patches": []
+    },
+    {
+      "name": "0.5.1 Beta",
+      "path": "0.5.1-Beta",
+      "tag": "0.5-Beta",
+      "exe_path": null,
+      "manifest": "https://raw.githubusercontent.com/Global-War-Releases/0.5.1-Beta_main_1/master/manifest.json",
+      "assets": [
+        { "name": "data1.zip", "size": 2115396288, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data1.zip" },
+        { "name": "data2.zip", "size": 2097995014, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data2.zip" },
+        { "name": "data3.zip", "size": 2099232894, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data3.zip" },
+        { "name": "data4.zip", "size": 2097609519, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data4.zip" },
+        { "name": "data5.zip", "size": 2100361929, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data5.zip" },
+        { "name": "data6.zip", "size": 2099443995, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data6.zip" },
+        { "name": "data7.zip", "size": 2097826048, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data7.zip" },
+        { "name": "data8.zip", "size": 2097764956, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data8.zip" },
+        { "name": "data9.zip", "size": 2098490155, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data9.zip" },
+        { "name": "data10.zip", "size": 2100131755, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data10.zip" },
+        { "name": "data11.zip", "size": 2099386943, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data11.zip" },
+        { "name": "data12.zip", "size": 2099488188, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data12.zip" },
+        { "name": "data13.zip", "size": 1240565681, "url": "https://github.com/Global-War-Releases/0.5.1-Beta_main_1/releases/download/0.5-Beta/data13.zip" }
+      ],
+      "patches": []
+    },
+    {
+      "name": "Call of Pripyat 1.6.02 (OpenXRay)",
+      "path": "Call-of-Pripyat-1.6.02--OpenXRay-",
+      "tag": "Call-of-Pripyat-1.6.02-(OpenXRay)",
+      "exe_path": null,
+      "manifest": "https://raw.githubusercontent.com/Global-War-Releases/Call-of-Pripyat-1.6.02--OpenXRay-_main_1/master/manifest.json",
+      "assets": [
+        { "name": "data1.zip", "size": 1945178700, "url": "https://github.com/Global-War-Releases/Call-of-Pripyat-1.6.02--OpenXRay-_main_1/releases/download/Call-of-Pripyat-1.6.02-%28OpenXRay%29/data1.zip" },
+        { "name": "data2.zip", "size": 1240086360, "url": "https://github.com/Global-War-Releases/Call-of-Pripyat-1.6.02--OpenXRay-_main_1/releases/download/Call-of-Pripyat-1.6.02-%28OpenXRay%29/data2.zip" }
+      ],
+      "patches": []
+    },
+    {
+      "name": "0.5.2 Beta",
+      "path": "0.5.2-Beta",
+      "tag": "0.5.2-Beta",
+      "exe_path": null,
+      "manifest": "https://raw.githubusercontent.com/Global-War-Releases/0.5.2-Beta_main_1/master/manifest.json",
+      "assets": [
+        { "name": "data1.zip", "size": 2097813352, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data1.zip" },
+        { "name": "data2.zip", "size": 2098653026, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data2.zip" },
+        { "name": "data3.zip", "size": 2098282938, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data3.zip" },
+        { "name": "data4.zip", "size": 2100419153, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data4.zip" },
+        { "name": "data5.zip", "size": 2098665364, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data5.zip" },
+        { "name": "data6.zip", "size": 2097518620, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data6.zip" },
+        { "name": "data7.zip", "size": 2098960234, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data7.zip" },
+        { "name": "data8.zip", "size": 2098049746, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data8.zip" },
+        { "name": "data9.zip", "size": 2098341149, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data9.zip" },
+        { "name": "data10.zip", "size": 879935634, "url": "https://github.com/Global-War-Releases/0.5.2-Beta_main_1/releases/download/0.5.2-Beta/data10.zip" }
+      ],
+      "patches": []
+    },
+    {
+      "name": "Global War Dev",
+      "path": "Global-War-Dev",
+      "tag": "Global-War-Dev",
+      "exe_path": null,
+      "manifest": "https://raw.githubusercontent.com/Global-War-Releases/Global-War-Dev_main_1/master/manifest.json",
+      "assets": [
+        { "name": "data1.zip", "size": 2098551429, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data1.zip" },
+        { "name": "data2.zip", "size": 2098514378, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data2.zip" },
+        { "name": "data3.zip", "size": 2100825257, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data3.zip" },
+        { "name": "data4.zip", "size": 2101080190, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data4.zip" },
+        { "name": "data5.zip", "size": 2098896272, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data5.zip" },
+        { "name": "data6.zip", "size": 2097805677, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data6.zip" },
+        { "name": "data7.zip", "size": 2097734382, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data7.zip" },
+        { "name": "data8.zip", "size": 2103186278, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data8.zip" },
+        { "name": "data9.zip", "size": 2022501386, "url": "https://github.com/Global-War-Releases/Global-War-Dev_main_1/releases/download/Global-War-Dev/data9.zip" }
+      ],
+      "patches": [
+        {
+          "tag": "0.5.5-patch1",
+          "base_patch": null,
+          "notes": "## Патч 0.5.5-patch1\n\nНовое:\n- Улучшены отчёты о вылетах — при краше игры создаётся архив с подробной информацией для диагностики\n\nИсправления:\n- Исправлен ряд ошибок, вызывавших нестабильность",
+          "manifest": "https://github.com/Global-War-Releases/Global-War-Dev_updates_1/releases/download/0.5.5-patch1/manifest.json",
+          "assets": [
+            { "name": "data1.zip", "size": 14114169, "url": "https://github.com/Global-War-Releases/Global-War-Dev_updates_1/releases/download/0.5.5-patch1/data1.zip" },
+            { "name": "manifest.json", "size": 291, "url": "https://github.com/Global-War-Releases/Global-War-Dev_updates_1/releases/download/0.5.5-patch1/manifest.json" }
+          ]
+        }
+      ]
+    }
+  ]
 }
