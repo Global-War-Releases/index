@@ -19,6 +19,9 @@
     ],
     "bg_etag": "\"5d608d862f6004f70701f1639477db9de31a8c2867bd143f74d23b5d430aad6a\""
   },
+  "users": {
+    "6e0ead30-48de-4421-99db-cc8b381ad0b3": { "flags": ["allowPackMod"] }
+  },
   "presets": [
     {
       "id": "max_performance",
