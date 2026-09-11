@@ -286,6 +286,12 @@
         "snd_ai_priority_only_beyond_budget": "1",
         "snd_cache_short_sec": "6.",
         "snd_cache_size": "32"
+      },
+      "alife": {
+        "position_update_interval_ms": "8000",
+        "process_time": "800",
+        "objects_per_update": "20",
+        "switch_distance": "250"
       }
     },
     {
@@ -554,6 +560,12 @@
         "snd_ai_priority_only_beyond_budget": "1",
         "snd_cache_short_sec": "6.",
         "snd_cache_size": "32"
+      },
+      "alife": {
+        "position_update_interval_ms": "5000",
+        "process_time": "500",
+        "objects_per_update": "20",
+        "switch_distance": "350"
       }
     },
     {
@@ -822,6 +834,12 @@
         "snd_ai_priority_only_beyond_budget": "1",
         "snd_cache_short_sec": "6.",
         "snd_cache_size": "32"
+      },
+      "alife": {
+        "position_update_interval_ms": "4000",
+        "process_time": "500",
+        "objects_per_update": "30",
+        "switch_distance": "450"
       }
     },
     {
@@ -1090,6 +1108,12 @@
         "snd_ai_priority_only_beyond_budget": "1",
         "snd_cache_short_sec": "6.",
         "snd_cache_size": "32"
+      },
+      "alife": {
+        "position_update_interval_ms": "5000",
+        "process_time": "500",
+        "objects_per_update": "20",
+        "switch_distance": "600"
       }
     }
   ],
