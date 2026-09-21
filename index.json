@@ -1,22 +1,20 @@
 {
   "schema": 1,
-  "generated_at": "2026-09-18T18:37:15.334950800+00:00",
+  "generated_at": "2026-09-21T17:31:37Z",
   "launcher": {
-    "version": "0.3.6",
+    "version": "0.3.7",
     "assets": [
-      {
-        "name": "Launcher",
-        "platform": "linux",
-        "size": 43734808,
-        "url": "https://github.com/ChugunovRoman/launcher-gw/releases/download/0.3.6/Launcher",
-        "sha256": null
-      },
       {
         "name": "Launcher.exe",
         "platform": "windows",
-        "size": 30941696,
-        "url": "https://github.com/ChugunovRoman/launcher-gw/releases/download/0.3.6/Launcher.exe",
-        "sha256": null
+        "size": 31325696,
+        "url": "https://github.com/ChugunovRoman/launcher-gw/releases/download/0.3.7/Launcher.exe"
+      },
+      {
+        "name": "Launcher",
+        "platform": "linux",
+        "size": 43956208,
+        "url": "https://github.com/ChugunovRoman/launcher-gw/releases/download/0.3.7/Launcher"
       }
     ],
     "bg_etag": "\"5d608d862f6004f70701f1639477db9de31a8c2867bd143f74d23b5d430aad6a\""
