@@ -1641,7 +1641,15 @@
               "target": null
             }
           ],
-          "updated_fields": []
+          "updated_fields": [
+            "explosion_immunity",
+            "explosion_immunity_leader",
+            "fire_wound_immunity",
+            "fire_wound_immunity_leader",
+            "spot_color_b",
+            "spot_color_g",
+            "spot_color_r"
+          ]
         }
       ],
       "total_files_count": 84383,
